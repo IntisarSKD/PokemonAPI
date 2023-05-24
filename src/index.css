@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pokemon-container {
+  display: flex;
+}
+
+.pokemon-list {
+  flex: 1;
+}
+
+.team-builder-list {
+  flex: 1;
+  margin-left: 20px; /* Adjust the margin as needed */
+}
+
